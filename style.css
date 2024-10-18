@@ -135,3 +135,27 @@ button {
   color: #1F2937;
   font-size: 24px;
 }
+
+.call-to-action {
+  padding: 100px 375px;
+}
+
+.call {
+  background-color: #3882F6;
+  color: #F9FAF8;
+  border: 1px solid #3882F6;
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  padding: 50px 200px;
+}
+
+.its-time {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.call-right {
+  border: 2px solid #F9FAF8;
+}
+
